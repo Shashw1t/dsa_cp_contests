@@ -3,7 +3,7 @@ class Solution {
         int left = 0;
         int right = (int) Math.sqrt(c);
         while (left <= right) {
-            long sum = (long) left * left + (long) right * right; // Use long to avoid overflow
+            long sum = (long) left * left + (long) right * right; 
             if (sum == c) {
                 return true;
             } else if (sum < c) {
@@ -14,10 +14,9 @@ class Solution {
         }
         return false;
     }
-
     public static void main(String[] args) {
         Solution solution = new Solution();
         int c = 2147483600;
-        System.out.println(solution.judgeSquareSum(c)); // Expected output: true or false
+        System.out.println(solution.judgeSquareSum(c));
     }
 }
