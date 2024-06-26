@@ -13,7 +13,7 @@ public class wayTooLongWords {
             } else {
                 System.out.println(word);
             }
-        
+        }
         sc.close();
 
     }
