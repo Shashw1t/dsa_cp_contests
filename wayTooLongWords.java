@@ -16,6 +16,5 @@ public class wayTooLongWords {
         }
         sc.close();
 
-        
     }
 }
