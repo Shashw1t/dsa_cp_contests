@@ -18,7 +18,7 @@ public class BasilsGarden {
             long totalNumberOfElements = sc.nextLong();
             long maximumValue = findMaximumValue(totalNumberOfElements);
             System.out.println(maximumValue);
-        }
+        
         sc.close();
     }
 }
