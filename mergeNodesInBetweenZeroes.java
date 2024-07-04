@@ -14,7 +14,7 @@ class Solution {
     public List mergeNodes(ListNode head) {
         ListNode dummy = new ListNode(0);
         ListNode newNode = dummy;
-        head = head.next;;
+        head = head.next;
         int sum = 0;
 
         while(head != null){
