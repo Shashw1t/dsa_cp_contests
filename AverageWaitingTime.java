@@ -14,6 +14,6 @@ class averageWaitingTime {
             current_time += service;
         }
 
-        return total_waiting_time / customers.length;
+        return total_waiting_time / customers.length
     }
 }
