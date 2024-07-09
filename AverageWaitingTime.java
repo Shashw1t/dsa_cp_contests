@@ -16,4 +16,3 @@ class averageWaitingTime {
 
         return total_waiting_time / customers.length;
     }
-}
