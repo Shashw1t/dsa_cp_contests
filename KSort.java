@@ -6,7 +6,7 @@ public class KSort {
         List<Long> b = new ArrayList<>();
         long x = v.get(0);
         for (long val : v) {
-            x = Math.max(x, val)
+            x = Math.max(x, val);
             if (x > val) {
                 b.add(x - val);
             }
