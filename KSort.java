@@ -8,7 +8,7 @@ public class KSort {
         for (long val : v) {
             x = Math.max(x, val);
             if (x > val) {
-                b.add(x - val);
+                b.add(x - val)
             }
         }
         if (b.isEmpty()) {
