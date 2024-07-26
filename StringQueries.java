@@ -44,6 +44,6 @@ public class StringQueries {
                 System.out.println(changes / 2);
             }
         }
-        scanner.close()
+        scanner.close();
     }
 }
