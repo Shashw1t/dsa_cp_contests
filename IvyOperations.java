@@ -33,6 +33,6 @@ public class IvyOperations {
             }
             System.out.println(ans);
         }
-        scanner.close()
+        scanner.close();
     }
 }
