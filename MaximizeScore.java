@@ -84,6 +84,6 @@ public class MaximizeScore {
         }
 
         System.out.print(output); 
-        sc.close()
+        sc.close();
     }
 }
