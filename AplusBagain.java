@@ -8,6 +8,7 @@ public class AplusBagain {
         int t = scanner.nextInt();
 
         while (t-- > 0) {
+            
             int n = scanner.nextInt();
             int ans = 0;
             ans+= n/10;
