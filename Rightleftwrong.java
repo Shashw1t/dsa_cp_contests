@@ -34,6 +34,6 @@ public class Rightleftwrong {
             }
             System.out.println(ans);
         }
-        sc.close();
+        sc.close()
     }
 }
