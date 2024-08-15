@@ -90,6 +90,6 @@ public class ColoredPortals {
         while (t-- > 0) {
             solve(sc);
         }
-        sc.close();
+        sc.close()
     }
 }
