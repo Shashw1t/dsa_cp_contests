@@ -24,6 +24,6 @@ public class Generatepermutation {
     }
 
     public static void main(String[] args) {
-        solve();
+        solve()
     }
 }
