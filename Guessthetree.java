@@ -1,4 +1,4 @@
-import java.util.Scan
+import java.util.Sca
 
 public class Guessthetree {
     static Scanner scanner = new Scanner(System.in);
