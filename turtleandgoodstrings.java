@@ -13,7 +13,7 @@ public class turtleandgoodstrings {
             if (str.charAt(0) != str.charAt(n - 1)) {
                 System.out.println("YES");
             } else if (str.charAt(0) == str.charAt(n - 1)) {
-                System.out.println("NO")
+                System.out.println("NO");
             }
         }
     }
